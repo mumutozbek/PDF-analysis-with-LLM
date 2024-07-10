@@ -10,38 +10,7 @@ This project provides a Streamlit app for analyzing PDF files using Llama3.
 
 ## Setup
 
-### Option 1: Use Pre-configured Virtual Environment
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/mumutozbek/PDF-analysis-with-LLM.git
-    cd your-repo-name
-    ```
-
-2. Download the virtual environment:
-    ```bash
-    # For myenv.tar.gz
-    tar -xzvf myenv.tar.gz
-
-    # For myenv.zip
-    unzip myenv.zip
-    ```
-
-3. Activate the virtual environment:
-    ```bash
-    # On Windows
-    myenv\Scripts\activate
-
-    # On macOS/Linux
-    source myenv/bin/activate
-    ```
-
-4. Run the Streamlit app:
-    ```bash
-    streamlit run app.py
-    ```
-
-### Option 2: Set Up Your Own Virtual Environment
+### Set Up Your Own Virtual Environment
 
 1. Clone the repository:
     ```bash
