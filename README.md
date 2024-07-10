@@ -34,12 +34,6 @@ This project provides a Streamlit app for analyzing PDF files using Llama3.
     streamlit run app.py
     ```
 
-pdf_analysis_with_llama3/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-
 
 ## Usage
 
