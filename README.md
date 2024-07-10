@@ -15,7 +15,7 @@ This project provides a Streamlit app for analyzing PDF files using Llama3.
 1. Clone the repository:
     ```bash
     git clone https://github.com/mumutozbek/PDF-analysis-with-LLM.git
-    cd your-repo-name
+    cd PDF-analysis-with-LLM
     ```
 
 2. Create and activate a virtual environment:
